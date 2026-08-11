@@ -1,0 +1,5 @@
+a = float(input("first digit =",))
+b = float(input("second digit =",))
+print(a+b)
+print(type(a))
+print(type(b))
